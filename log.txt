@@ -1,0 +1,2006 @@
+GET / HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:48
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+GET / HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:48
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+GET / HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:48
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+
+
+26/10/2016 21:48:48
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+HTTP/1.0 404 Not Found 
+
+Error establishing connection! 
+
+GET /favicon.ico HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+GET /favicon.ico HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+GET /favicon.ico HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+HTTP/1.0 404 Not Found 
+
+Error establishing connection! 
+
+GET /favicon.ico HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+GET /favicon.ico HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+GET /favicon.ico HTTP/1.1
+Host: www.djfgvnaerg.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+
+
+26/10/2016 21:48:49
+
+
+Host Address:www.djfgvnaerg.com
+Local Port:80
+
+HTTP/1.0 404 Not Found 
+
+Error establishing connection! 
+
+GET /www.google.com HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /www.google.com HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /www.google.com HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /www.google.com HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /www.google.com HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /www.google.com HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /favicon.ico HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /favicon.ico HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /favicon.ico HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /favicon.ico HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /favicon.ico HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /favicon.ico HTTP/1.1
+Host: localhost:7635
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 21:50:35
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 21:51:07
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:01:28
+
+
+Host Address:localhost
+Local Port:8080
+
+HTTP/1.0 404 Not Found 
+
+Error establishing connection! 
+
+
+
+26/10/2016 22:01:51
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:01:51
+
+
+Host Address:localhost
+Local Port:7635
+
+HTTP/1.1 200 OK
+GET /wikipedia/commons/thumb/3/39/Busta_Jan_z_Jen%C5%A1tejna.jpg/78px-Busta_Jan_z_Jen%C5%A1tejna.jpg HTTP/1.1
+Host: upload.wikimedia.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://en.wikipedia.org/wiki/Main_Page
+Connection: keep-alive
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /wikipedia/commons/thumb/3/39/Busta_Jan_z_Jen%C5%A1tejna.jpg/78px-Busta_Jan_z_Jen%C5%A1tejna.jpg HTTP/1.1
+Host: upload.wikimedia.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://en.wikipedia.org/wiki/Main_Page
+Connection: keep-alive
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /wikipedia/commons/thumb/3/39/Busta_Jan_z_Jen%C5%A1tejna.jpg/78px-Busta_Jan_z_Jen%C5%A1tejna.jpg HTTP/1.1
+Host: upload.wikimedia.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://en.wikipedia.org/wiki/Main_Page
+Connection: keep-alive
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /wikipedia/commons/thumb/3/39/Busta_Jan_z_Jen%C5%A1tejna.jpg/78px-Busta_Jan_z_Jen%C5%A1tejna.jpg HTTP/1.1
+Host: upload.wikimedia.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://en.wikipedia.org/wiki/Main_Page
+Connection: keep-alive
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /wikipedia/commons/thumb/3/39/Busta_Jan_z_Jen%C5%A1tejna.jpg/78px-Busta_Jan_z_Jen%C5%A1tejna.jpg HTTP/1.1
+Host: upload.wikimedia.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://en.wikipedia.org/wiki/Main_Page
+Connection: keep-alive
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /wikipedia/commons/thumb/3/39/Busta_Jan_z_Jen%C5%A1tejna.jpg/78px-Busta_Jan_z_Jen%C5%A1tejna.jpg HTTP/1.1
+Host: upload.wikimedia.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://en.wikipedia.org/wiki/Main_Page
+Connection: keep-alive
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:03:55
+
+
+Host Address:upload.wikimedia.org
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/view-white.png HTTP/1.1
+Host: watchseries.ag
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://watchseries.ag/css/style.css
+Cookie: __cfduid=dec73ec8987ff331fe2a97615ed8e72271422839526; _ga=GA1.2.2094456119.1423187122
+Connection: keep-alive
+
+26/10/2016 22:11:03
+
+
+Host Address:watchseries.ag
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /images/viewGET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+GET /util.js HTTP/1.1
+Host: www.cs.princeton.edu
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://www.cs.princeton.edu/courses/archive/spr10/cos461/assignments-proxy-thread.html
+Connection: keep-alive
+If-Modified-Since: Thu, 27 Oct 2016 01:13:52 GMT
+If-None-Match: "1427937232"
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
+
+
+26/10/2016 22:34:07
+
+
+Host Address:www.cs.princeton.edu
+Local Port:80
+
+HTTP/1.1 200 OK
